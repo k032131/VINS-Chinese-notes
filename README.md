@@ -1,2 +1,3 @@
 # VINS-Mono中文注释
-修改goodFeaturePoint
+
+将goodFeaturesToTrack函数由调用OpenCV接口函数改为SVO中的函数
